@@ -1,0 +1,7 @@
+C:\Users\spamt\source\repos\DeadLock\DeadLock\bin\Debug\DeadLock.exe.config
+C:\Users\spamt\source\repos\DeadLock\DeadLock\bin\Debug\DeadLock.exe
+C:\Users\spamt\source\repos\DeadLock\DeadLock\bin\Debug\DeadLock.pdb
+C:\Users\spamt\source\repos\DeadLock\DeadLock\obj\Debug\DeadLock.csprojAssemblyReference.cache
+C:\Users\spamt\source\repos\DeadLock\DeadLock\obj\Debug\DeadLock.csproj.CoreCompileInputs.cache
+C:\Users\spamt\source\repos\DeadLock\DeadLock\obj\Debug\DeadLock.exe
+C:\Users\spamt\source\repos\DeadLock\DeadLock\obj\Debug\DeadLock.pdb
